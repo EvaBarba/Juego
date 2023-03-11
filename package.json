@@ -1,0 +1,16 @@
+{
+  "name": "CORE-2020-Entrega3_juego",
+  "version": "3.0.1",
+  "description": "CORE-2020/Entrega3_juego",
+  "keywords": [
+    "CORE"
+  ],
+  "author": "CORE-2020",
+  "license": "Unlicense",
+  "info": {
+    "githubURL": "CORE-2020/Entrega3_juego",
+    "serverUrl": "https://autocorector.dit.upm.es/",
+    "courseId": "8249",
+    "assignmentId": "76450"
+  }
+}
